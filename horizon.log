@@ -1,0 +1,30 @@
+Horizon started successfully.
+[2020-10-15 18:24:25][f7093f8b-1ebf-41e7-ae84-45ea557b1365] Processing: Spatie\MailcoachSesFeedback\ProcessSesWebhookJob
+[2020-10-15 18:24:25][f7093f8b-1ebf-41e7-ae84-45ea557b1365] Processed:  Spatie\MailcoachSesFeedback\ProcessSesWebhookJob
+[2020-10-15 18:39:44][0590aceb-49e4-4045-9151-7b58dba5b7ec] Processing: Closure (EditMailConfigurationController.php:23)
+[2020-10-15 18:39:44][0590aceb-49e4-4045-9151-7b58dba5b7ec] Processed:  Closure (EditMailConfigurationController.php:23)
+Horizon started successfully.
+[2020-10-15 18:51:53][9bccbfc7-3bc8-4cbc-a57a-bc0914325e9e] Processing: Spatie\Mailcoach\Jobs\SendTestMailJob
+[2020-10-15 18:51:53][9bccbfc7-3bc8-4cbc-a57a-bc0914325e9e] Processing: Spatie\Mailcoach\Jobs\SendTestMailJob
+[2020-10-15 18:51:53][9bccbfc7-3bc8-4cbc-a57a-bc0914325e9e] Failed:     Spatie\Mailcoach\Jobs\SendTestMailJob
+[2020-10-15 18:53:09][0afbdaaf-f1e5-417e-aa66-acb502d2ebf2] Processing: Spatie\Mailcoach\Jobs\SendTestMailJob
+[2020-10-15 18:53:09][0afbdaaf-f1e5-417e-aa66-acb502d2ebf2] Processing: Spatie\Mailcoach\Jobs\SendTestMailJob
+[2020-10-15 18:53:09][0afbdaaf-f1e5-417e-aa66-acb502d2ebf2] Failed:     Spatie\Mailcoach\Jobs\SendTestMailJob
+[2020-10-15 19:00:58][19c34d17-daed-4a44-ac77-1ba791af1bdd] Processing: Spatie\Mailcoach\Jobs\SendTestMailJob
+[2020-10-15 19:00:58][19c34d17-daed-4a44-ac77-1ba791af1bdd] Processing: Spatie\Mailcoach\Jobs\SendTestMailJob
+[2020-10-15 19:00:58][19c34d17-daed-4a44-ac77-1ba791af1bdd] Failed:     Spatie\Mailcoach\Jobs\SendTestMailJob
+[2020-10-15 19:02:04][72d2a0d0-84d6-4060-bb10-354c0461ddfb] Processing: Spatie\Mailcoach\Jobs\SendTestMailJob
+[2020-10-15 19:02:04][72d2a0d0-84d6-4060-bb10-354c0461ddfb] Processing: Spatie\Mailcoach\Jobs\SendTestMailJob
+[2020-10-15 19:02:04][72d2a0d0-84d6-4060-bb10-354c0461ddfb] Failed:     Spatie\Mailcoach\Jobs\SendTestMailJob
+[2020-10-15 19:03:02][ce1fa982-8251-4840-8b16-b155120edb3b] Processing: Closure (EditAppConfigurationController.php:29)
+[2020-10-15 19:03:03][ce1fa982-8251-4840-8b16-b155120edb3b] Processed:  Closure (EditAppConfigurationController.php:29)
+Horizon started successfully.
+[2020-10-15 19:03:54][7cafe39a-1ea8-4f6c-8e71-a4d9e7ef664a] Processing: Closure (EditTransactionalMailConfigurationController.php:25)
+[2020-10-15 19:03:54][7cafe39a-1ea8-4f6c-8e71-a4d9e7ef664a] Processed:  Closure (EditTransactionalMailConfigurationController.php:25)
+Horizon started successfully.
+[2020-10-15 19:31:02][ce712ad9-a29b-4a17-9b28-31118aed90a2] Processing: Closure (EditTransactionalMailConfigurationController.php:25)
+[2020-10-15 19:31:03][ce712ad9-a29b-4a17-9b28-31118aed90a2] Processed:  Closure (EditTransactionalMailConfigurationController.php:25)
+Horizon started successfully.
+[2020-10-15 19:47:14][4adb8cdb-c781-49a9-a8e8-c585166554d4] Processing: Closure (EditMailConfigurationController.php:23)
+[2020-10-15 19:47:14][4adb8cdb-c781-49a9-a8e8-c585166554d4] Processed:  Closure (EditMailConfigurationController.php:23)
+Horizon started successfully.
